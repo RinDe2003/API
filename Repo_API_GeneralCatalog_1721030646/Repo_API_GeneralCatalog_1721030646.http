@@ -1,0 +1,6 @@
+@Repo_API_GeneralCatalog_1721030646_HostAddress = http://localhost:5161
+
+GET {{Repo_API_GeneralCatalog_1721030646_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
